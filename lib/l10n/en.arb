@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "bottomNavBarFavorites": "Favorites",
+  "bottomNavBarHome": "Home",
+  "bottomNavBarMovies": "Movies",
+  "emptyFavorite": "No favorite",
+  "error": "An error occurred",
+  "movieResume": "Overview : {overview}",
+  "moviesTitle": "Movies",
+  "rating": "{count, plural, =0{No vote for this movie} =1{Rating: {rating} for one vote} other{Rating: {rating} for {count} votes}}",
+  "title": "Socle Niji 2022"
+}

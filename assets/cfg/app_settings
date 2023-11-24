@@ -1,0 +1,4 @@
+  env=REC,
+  api_base_url="https://api.themoviedb.org/3",
+  image_base_url="https://image.tmdb.org/t/p/w200",
+  api_key="d5fa5e30eddc4cbf9b48cf1ab63d59c4"

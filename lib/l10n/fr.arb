@@ -1,0 +1,35 @@
+{
+  "@@locale": "fr",
+  "bottomNavBarFavorites": "Favoris",
+  "bottomNavBarHome": "Accueil",
+  "bottomNavBarMovies": "Films",
+  "emptyFavorite": "Aucun favoris",
+  "error": "Une erreur est survenue",
+  "movieResume": "Résumé : {overview}",
+  "@movieResume": {
+    "description": "What this movie is about.",
+    "placeholders": {
+      "overview": {
+        "type": "String",
+        "example": "This movie deals with super-heroes."
+      }
+    }
+  },
+  "moviesTitle": "Films",
+  "rating": "{count, plural, =0{Aucune note pour ce film} =1{Notation : {rating} pour une note} other{Notation : {rating} pour {count} notes}}",
+  "@rating": {
+    "description": "The message to show ratings",
+    "placeholders": {
+      "rating": {
+        "description": "The rating of the movie",
+        "type": "double",
+        "example": "20.5",
+        "format": "compact"
+      },
+      "count": {
+        "description": "How many votes there are"
+      }
+    }
+  },
+  "title": "Socle Niji 2022"
+}
